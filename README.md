@@ -10,8 +10,6 @@ Open Terminal and run:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/edgetier/onboarding-script/main/install.sh)"
 ```
 
-> **Note:** Replace `YOUR_ORG` with your GitHub organization name.
-
 ## What Gets Installed
 
 | Application | Installation Method |
