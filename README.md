@@ -7,7 +7,7 @@ Automated setup script for new employee Mac laptops. Installs all standard work 
 Open Terminal and run:
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/YOUR_ORG/mac-onboarding/main/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/edgetier/onboarding-script/main/install.sh)"
 ```
 
 > **Note:** Replace `YOUR_ORG` with your GitHub organization name.
